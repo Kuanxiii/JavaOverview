@@ -1,0 +1,40 @@
+## Spring框架
+
+### Spring框架重点
+
+- IOC
+  - 依赖注入
+  - 原理
+  - 作用域
+  - 装配流程
+- AOP
+  - 切面
+  - 切点
+  - AspectJ
+  - 代理模式
+  - 通知类型
+- 事务
+  - 事务传播机制
+  - 本地事务
+  - 分布式事务
+- 注解
+  - 导入命名空间
+  - 配置扫描
+  - 常用注解
+- 模块
+  - 核心容器
+  - 数据访问
+  - Web应用
+- SpringMVC
+  - 拦截器
+  - 过滤器
+  - Servlet
+- SpringBoot
+  - 约定大于配置
+  - 自动配置
+- SpringCloud
+  - Config
+  - Eureka
+  - Feign
+  - Hystrix
+  - Zuul
